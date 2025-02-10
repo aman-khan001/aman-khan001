@@ -25,9 +25,7 @@
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 
 
-<img src="[https://media.giphy.com/media/l3vR85PnGsBwu1PFK/giphy.gif](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTVmeTB6bXRwaXptYzFwcm1mc3hlYm9rY2U0OHR6b3JybDRsZmY1dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MD0svLSDeudszrNrp0/giphy.gif)" width="100%">
-
-<img src="https://gist.githubusercontent.com/Prince-Shivaram/106aa0f37f016eda7ec65de5acb90471/raw/760aff1fe331f8a445d4573aa88fd2ec16e72b83/My-work.gif" width="100%">
+<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTVmeTB6bXRwaXptYzFwcm1mc3hlYm9rY2U0OHR6b3JybDRsZmY1dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MD0svLSDeudszrNrp0/giphy.gif" width="100%">
 
 
 <br>
@@ -57,6 +55,9 @@
 
 
 <!---
+
+<img src="https://gist.githubusercontent.com/Prince-Shivaram/106aa0f37f016eda7ec65de5acb90471/raw/760aff1fe331f8a445d4573aa88fd2ec16e72b83/My-work.gif" width="100%">
+
 
 
 ### 📊 GitHub Stats
