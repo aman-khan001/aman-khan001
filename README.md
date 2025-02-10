@@ -1,19 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <style>
-        body {
-            background: url('https://www.pexels.com/video/digital-projection-of-the-earth-s-mass-in-orange-lights-3129902/') no-repeat center center fixed;
-            background-size: cover;
-            color: white;
-            text-align: center;
-            font-family: Arial, sans-serif;
-        }
-    </style>
-</head>
-<body>
-    <h1>Welcome to My GitHub Profile</h1>
-    <p>I'm a Full-Stack Developer passionate about coding!</p>
+
 
 
 
@@ -22,7 +7,11 @@
 
 [![🚀 Full-Stack Developer | Passionate about Coding | Programming Tutor](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C7E&width=435&lines=Full-Stack+Developer;Programming+Tutor;Tech+Enthusiast)](https://git.io/typing-svg)
 
-#### 🔋 I specialize in Python, MERN Stack, and 15+ technologies
+
+[![I specialize in Python, MERN Stack, and 15+ technologies](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00FF00&width=700&lines=Hey+there!+I'm+Aman+Khan;Python+%26+MERN+Stack+Developer;Tutor+%7C+Passionate+Coder;Welcome+to+my+GitHub!)](https://git.io/typing-svg)
+
+
+<!-- #### 🔋  -->
 
 
 
@@ -69,8 +58,6 @@
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](your-link)
 
 
-</body>
-</html>
 
 <!---
 
