@@ -2,7 +2,6 @@
 
 
 
-
 ## Hey there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> I'm Aman Khan  
 
 [![🚀 Full-Stack Developer | Passionate about Coding | Programming Tutor](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C7E&width=435&lines=Full-Stack+Developer;Programming+Tutor;Tech+Enthusiast)](https://git.io/typing-svg)
@@ -28,7 +27,7 @@
 
 <img src="https://media.giphy.com/media/l3vR85PnGsBwu1PFK/giphy.gif" width="100%">
 
-
+<img src="https://gist.githubusercontent.com/Prince-Shivaram/106aa0f37f016eda7ec65de5acb90471/raw/760aff1fe331f8a445d4573aa88fd2ec16e72b83/My-work.gif" width="100%">
 
 <script src="https://gist.github.com/Prince-Shivaram/106aa0f37f016eda7ec65de5acb90471.js"></script>
 
