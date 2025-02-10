@@ -1,5 +1,5 @@
 
-## Hey there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> I'm #Aman Khan  
+## Hey there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> I'm Aman Khan  
 
 [![🚀 Full-Stack Developer | Passionate about Coding | Programming Tutor](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C7E&width=435&lines=Full-Stack+Developer;Programming+Tutor;Tech+Enthusiast)](https://git.io/typing-svg)
 
