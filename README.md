@@ -1,10 +1,6 @@
 
 
 
-
-## Hey there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> I'm Aman Khan  
-
-
 [![Typing animation](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00FF00&width=700&lines=Hey+there!+I'm+Aman+Khan;Python+%26+MERN+Stack+Developer;Tutor+%7C+Passionate+Coder;Welcome+to+my+GitHub!)](https://git.io/typing-svg)
 
 
@@ -58,6 +54,12 @@
 
 
 [![🚀 Full-Stack Developer | Passionate about Coding | Programming Tutor](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C7E&width=435&lines=Full-Stack+Developer;Programming+Tutor;Tech+Enthusiast)](https://git.io/typing-svg)
+
+
+
+
+## Hey there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> I'm Aman Khan  
+
 
 
 ### 📊 GitHub Stats
