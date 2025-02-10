@@ -4,10 +4,8 @@
 
 ## Hey there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> I'm Aman Khan  
 
-[![🚀 Full-Stack Developer | Passionate about Coding | Programming Tutor](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C7E&width=435&lines=Full-Stack+Developer;Programming+Tutor;Tech+Enthusiast)](https://git.io/typing-svg)
 
-
-[![I specialize in Python, MERN Stack, and 15+ technologies](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00FF00&width=700&lines=Hey+there!+I'm+Aman+Khan;Python+%26+MERN+Stack+Developer;Tutor+%7C+Passionate+Coder;Welcome+to+my+GitHub!)](https://git.io/typing-svg)
+[![Typing animation](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00FF00&width=700&lines=Hey+there!+I'm+Aman+Khan;Python+%26+MERN+Stack+Developer;Tutor+%7C+Passionate+Coder;Welcome+to+my+GitHub!)](https://git.io/typing-svg)
 
 
 <!-- #### 🔋  -->
@@ -58,6 +56,8 @@
 
 <img src="https://gist.githubusercontent.com/Prince-Shivaram/106aa0f37f016eda7ec65de5acb90471/raw/760aff1fe331f8a445d4573aa88fd2ec16e72b83/My-work.gif" width="100%">
 
+
+[![🚀 Full-Stack Developer | Passionate about Coding | Programming Tutor](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C7E&width=435&lines=Full-Stack+Developer;Programming+Tutor;Tech+Enthusiast)](https://git.io/typing-svg)
 
 
 ### 📊 GitHub Stats
