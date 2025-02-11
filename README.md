@@ -25,8 +25,6 @@
 <br>
 
 
-<br>
-<br>
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=your-username&color=blue)
 
@@ -47,8 +45,6 @@
 <br>
 <br>
 
-<br>
-<br>
 
 <!---
 
