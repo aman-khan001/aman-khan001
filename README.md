@@ -23,7 +23,7 @@
 
 
 <br>
-
+<!---
 
 ### 🚀 Featured Projects  
  Check out some of my best work!
@@ -31,7 +31,7 @@
 🔹 [Project Name](repo-link) - Short description  
 🔹 [Another Project](repo-link) - Another short description  
 
-
+--->
 <br>
 <br>
 
