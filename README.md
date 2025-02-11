@@ -23,15 +23,8 @@
 
 
 <br>
-<!---
 
-### 🚀 Featured Projects  
- Check out some of my best work!
 
-🔹 [Project Name](repo-link) - Short description  
-🔹 [Another Project](repo-link) - Another short description  
-
---->
 <br>
 <br>
 
@@ -39,6 +32,9 @@
 
 
 
+
+<br>
+<br>
 
 ### 🌍 Let's Connect
  Let's connect and build something amazing!
@@ -48,7 +44,24 @@
 
 
 
+<br>
+<br>
+
+<br>
+<br>
+
 <!---
+
+
+### 🚀 Featured Projects  
+ Check out some of my best work!
+
+🔹 [Project Name](repo-link) - Short description  
+🔹 [Another Project](repo-link) - Another short description  
+
+
+
+
 
 <img src="https://gist.githubusercontent.com/Prince-Shivaram/106aa0f37f016eda7ec65de5acb90471/raw/760aff1fe331f8a445d4573aa88fd2ec16e72b83/My-work.gif" width="100%">
 
